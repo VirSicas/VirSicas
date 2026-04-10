@@ -12,10 +12,11 @@ I work at the [UCL Centre for Cell & Molecular Dynamics](https://www.uclccmd.co.
 
 **Public:**
 - **[bioimage-ml-workflow](https://github.com/VirSicas/bioimage-ml-workflow)** - ML pipeline demonstrating dimensionality reduction and classification for medical imaging features
+-  **[cellpose2coordinates] (https://github.com/VirSicas/cellpose2coordinates)** - Extract and export spatial coordinates from CellPose segmentation results
 
 **In Development:**
 - **Brain-puncta-analysis** - Automated quantification of synaptic puncta in brain tissue imaging
-- **cellpose2coordinates** - Extract and export spatial coordinates from CellPose segmentation results
+
 - **coloc-memb-cyto** - Colocalization analysis between membrane and cytoplasmic compartments
 
 ---
